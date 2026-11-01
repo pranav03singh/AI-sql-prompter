@@ -1,0 +1,5 @@
+langchain-core>=1.0,<2.0
+langchain-openai>=1.0,<2.0
+python-dotenv>=1.0,<2.0
+sqlglot>=26.0,<29.0
+certifi>=2025.1.31
