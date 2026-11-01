@@ -66,7 +66,11 @@ Run it? [y/N]> y
 Here are your results:
 Name | AlbumCount
 -----+-----------
-Artist Name | 5
+Iron Maiden | 21
+Led Zeppelin | 14
+Deep Purple | 11
+Metallica | 10
+U2 | 10
 ...
 ```
 
